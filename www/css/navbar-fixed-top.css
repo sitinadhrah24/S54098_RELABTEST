@@ -1,0 +1,10 @@
+body {
+  min-height: 2000px;
+  padding-top: 100px;
+  background-color: rgb(202, 233, 167);
+  
+}
+.navbar,nav{
+  background-color: rgb(29, 87, 32);
+  color: black;
+}
